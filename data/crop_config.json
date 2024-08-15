@@ -1,0 +1,29 @@
+{
+  "wheat": {
+	"growth_time": 12.0,
+	"stages": 3,
+	"sprite_paths": [
+	  "res://sprites/wheat_stage_1.png",
+	  "res://sprites/wheat_stage_2.png",
+	  "res://sprites/wheat_stage_3.png"
+	]
+  },
+  "potato": {
+	"growth_time": 15.0,
+	"stages": 4,
+	"sprite_paths": [
+	  "res://sprites/potato_stage_1.png",
+	  "res://sprites/potato_stage_2.png",
+	  "res://sprites/potato_stage_3.png",
+	  "res://sprites/potato_stage_4.png"
+	]
+  },
+  "carrot": {
+	"growth_time": 8.0,
+	"stages": 2,
+	"sprite_paths": [
+	  "res://sprites/carrot_stage_1.png",
+	  "res://sprites/carrot_stage_2.png"
+	]
+  }
+}
